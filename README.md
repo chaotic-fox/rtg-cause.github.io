@@ -21,3 +21,5 @@ description: Monthly hybrid meeting
 
 Generation is done by the plugin `_plugins/calendar_generator.rb`, which reads all
 events from the collection and produces the ICS file at `/assets/CAUSE_calendar.ics`.
+
+x
